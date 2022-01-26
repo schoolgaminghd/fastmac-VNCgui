@@ -1,6 +1,6 @@
 # fastmac-gui
 
-> Get a MacOS desktop over VNC, for free, in around 5 minutes
+> Get a MacOS desktop over VNC, for free, in around 5 minutes!
 
 This repo extends upon fastmac, enabling the built in MacOS VNC server, doing a hacky trick to set a VNC password and a new admin user account, and adds ngrok to your system to set up a tcp tunnel for VNC/Apple Screen Sharing.
 
